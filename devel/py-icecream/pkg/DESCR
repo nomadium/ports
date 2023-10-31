@@ -1,0 +1,9 @@
+icecream is a small library that provides print debugging
+features and enhanced inspection for Python.
+
+icecream allows to inspect variables, expressions, and program
+execution with a single, simple function call.
+
+Data structures are pretty printed, output is syntax highlighted
+and it optionally includes program context: filename, line number,
+and parent function.
